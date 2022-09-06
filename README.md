@@ -6,7 +6,8 @@
 
 ### Code from the tutorial project [Build a Backend REST API with Python & Django - Advanced](https://www.udemy.com/course/django-python-advanced/) by Mark Winterbottom on Udemy.
 
-### The project is built using:
+
+## The project is built using:
 
 - Django 4 and Django Rest Framework
 
